@@ -10,12 +10,12 @@ No installation required. Just run the EXE.
 📅 Available Date Formats (with live preview):
 ------------------------------------------------
 
-  Option 1:  dd/MMM/yyyy      →  Example: 18/Jul/2025  
-  Option 2:  d/M/yyyy         →  Example: 18/7/2025  
-  US Style:  MM/dd/yyyy       →  Example: 07/18/2025
-  ISO 8601:  yyyy-MM-dd       →  Example: 2025-07-18
-  Dotted:    dd.MM.yyyy       →  Example: 18.07.2025
-  Full Month:dd MMMM yyyy     →  Example: 18 July 2025
+Option 1:  dd/MMM/yyyy      →  Example: 18/Jul/2025  
+Option 2:  d/M/yyyy         →  Example: 18/7/2025  
+US Style:  MM/dd/yyyy       →  Example: 07/18/2025
+ISO 8601:  yyyy-MM-dd       →  Example: 2025-07-18
+Dotted:    dd.MM.yyyy       →  Example: 18.07.2025
+Full Month:dd MMMM yyyy     →  Example: 18 July 2025
 
 ------------------------------------------
 ⚙️  How to Use:
